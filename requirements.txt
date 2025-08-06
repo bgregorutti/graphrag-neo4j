@@ -1,0 +1,6 @@
+neo4j
+transformers
+sentence-transformers
+numpy
+loguru
+dotenv

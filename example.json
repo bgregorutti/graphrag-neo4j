@@ -1,0 +1,10 @@
+[
+    {"type": "title", "name": "Test Paper", "content": "", "related_to": ""},
+    {"type": "section", "name": "Introduction", "content": "This paper introduces the topic.", "related_to": "Test Paper"},
+    {"type": "section", "name": "Methodology", "content": "We used several methods.", "related_to": "Test Paper"},
+    {"type": "subsection", "name": "Data Collection", "content": "Data was collected from multiple sources.", "related_to": "Methodology"},
+    {"type": "subsection", "name": "Analysis", "content": "The analysis was performed using statistical tools.", "related_to": "Methodology"},
+    {"type": "section", "name": "Results", "content": "Our findings indicate significant trends.", "related_to": "Test Paper"},
+    {"type": "subsection", "name": "Key Findings", "content": "The most important result is the discovery of X.", "related_to": "Results"},
+    {"type": "subsection", "name": "Limitations", "content": "There are some limitations to our study.", "related_to": "Results"}
+]
