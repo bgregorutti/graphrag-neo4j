@@ -88,9 +88,5 @@ Note: model names can be replaced in the code to use larger or remote models.
 - example.json — sample document structure
 - requirements.txt — Python dependencies
 
-## Contributing & License
-- There is no LICENSE file in this repository. Add a license if you intend to make this public/open-source.
-- Contributions: open issues / PRs with suggested improvements (ingestion robustness, batching, better parsing, configurable traversal depth, selective deletes).
-
 ## Contact
 Repository: https://github.com/bgregorutti/graphrag-neo4j
